@@ -1,7 +1,7 @@
 # Backend-e-Integra-o-com-Vue
 
-Backend desenvolvido com MySQL, Sequelize, Node.js, Express.js, Axios, Authenticate, JWT. <br/>
-Front-end desenvolvido com JavaScrip, CSS, HTML, Bulma e Vue.
+#Backend desenvolvido com MySQL, Sequelize, Node.js, Express.js, Axios, Authenticate, JWT.
+#Front-end desenvolvido com JavaScrip, CSS, HTML, Bulma e Vue.
 
 <img src="./users/src/assets/design.png" alt="Backend-e-Integra-o-com-Vue">
 
